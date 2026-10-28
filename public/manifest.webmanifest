@@ -1,0 +1,18 @@
+{
+  "name": "种子库 · 小说素材",
+  "short_name": "种子库",
+  "description": "卡片式小说素材库：双向链接、草稿状态位、一致性检查",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FBFAF7",
+  "theme_color": "#FBFAF7",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
